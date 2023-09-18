@@ -1,0 +1,7 @@
+input:expected
+90061:1 days, 1 hours, 1 minutes, 1 seconds
+2000:33 minutes, 20 seconds
+5000:1 hours, 23 minutes, 20 seconds
+200000:2 days, 7 hours, 33 minutes, 20 seconds
+20000000:231 days, 11 hours, 33 minutes, 20 seconds
+0: 0 minutes, 0 seconds
